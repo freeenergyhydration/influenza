@@ -1,1 +1,1 @@
-# influenza
+# Theta
